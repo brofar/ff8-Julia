@@ -214,7 +214,6 @@ namespace ff8_Julia
 
         private void myprc_Exited(object sender, EventArgs e)
         {
-            MessageBox.Show(((Process)sender).ProcessName + " process has exited!");
             BeginCodeProcessing();
         }
 
