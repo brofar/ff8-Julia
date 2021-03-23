@@ -57,7 +57,7 @@ namespace ff8_Julia
             this.lblVersion.Name = "lblVersion";
             this.lblVersion.Size = new System.Drawing.Size(281, 23);
             this.lblVersion.TabIndex = 1;
-            this.lblVersion.Text = "Caraway Code Sniffer (FF8 PC 2013 EN/FR) 1.0";
+            this.lblVersion.Text = "Caraway Code (FF8 PC 2013 EN/FR) 1.0";
             this.lblVersion.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lblStatus

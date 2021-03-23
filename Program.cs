@@ -18,5 +18,6 @@ namespace ff8_Julia
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new formMain());
         }
+
     }
 }
